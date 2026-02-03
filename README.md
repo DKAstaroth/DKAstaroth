@@ -30,6 +30,34 @@
 
 <br />
 
+<h2 align="center">📊 Engineering Analytics & Activity</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DKAstaroth&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="DKAstaroth Trophies" />
+  </a>
+</div>
+
+<br>
+
+<table align="center" width="95%" style="border: none;">
+  <tr>
+    <td width="55%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=DKAstaroth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=c9d1d9&count_private=true" alt="Juan Pablo's GitHub Stats" width="100%" />
+    </td>
+    <td width="45%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAstaroth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKAstaroth&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=D14836&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<br />
+<hr>
+
 ## ⚡ Tech Stack & Ecosystem
 
 <table align="center">
