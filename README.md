@@ -8,16 +8,6 @@
   </a>
 </h3>
 
-<h2 align="center">🧊 Code Infrastructure Visualization</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DKAstaroth&theme=radical" alt="Profile Details" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DKAstaroth&theme=radical&utcOffset=-3" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DKAstaroth&theme=radical" alt="Stats" />
-</div>
 
 <br />
 
@@ -25,26 +15,22 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,docker,git,linux,postgres,ts,angular,nodejs,huawei,vscode,idea&perline=6&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,aws,docker,git,linux,postgres,ts,angular,nodejs,java,vscode,vuejs&perline=6&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKAstaroth&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DKAstaroth&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br />
+
 <div align="center">
-  <a href="https://linkedin.com/in/vega-core">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vegalagos.jpa@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/DKAstaroth">
-    <img src="https://img.shields.io/badge/GITHUB-REPO_ACCESS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/vega-core"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:vegalagos.jpa@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/DKAstaroth"><img src="https://img.shields.io/badge/GITHUB-REPO_ACCESS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br />
@@ -56,34 +42,33 @@
 </div>
 
 <br />
-
-## ⚡ Tech Stack & Ecosystem
+<h2 align="center">⚡ Tech Stack & Ecosystem</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br><b>Core Logic</b>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+      <br><b>Automation & AI</b>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br><b>Typed Stack</b>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
+      <br><b>Typed Arch</b>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-      <br><b>Containerization</b>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
+      <br><b>Microservices</b>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br><b>Persistence</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="55" height="55" />
+      <br><b>Enterprise DB</b>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-      <br><b>Cloud Infra</b>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" />
+      <br><b>Cloud Native</b>
     </td>
     <td align="center" width="120">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-5190795500d3.png" alt="icon" width="55" height="55" />
-      <br><b>Git Flow</b>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />
+      <br><b>Enterprise Core</b>
     </td>
   </tr>
 </table>
