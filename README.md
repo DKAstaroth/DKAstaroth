@@ -8,6 +8,33 @@
   </a>
 </h3>
 
+<h2 align="center">🧊 Code Infrastructure Visualization</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DKAstaroth&theme=radical" alt="Profile Details" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DKAstaroth&theme=radical&utcOffset=-3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DKAstaroth&theme=radical" alt="Stats" />
+</div>
+
+<br />
+
+<h2 align="center">☢️ Core Technologies</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,docker,git,linux,postgres,ts,angular,nodejs,huawei,vscode,idea&perline=6&theme=dark" alt="Skill Icons" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKAstaroth&theme=radical&hide_border=true" alt="Streak" />
+</div>
+
 <div align="center">
   <a href="https://linkedin.com/in/vega-core">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,34 +56,6 @@
 </div>
 
 <br />
-
-<h2 align="center">📊 Engineering Analytics & Activity</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DKAstaroth&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="DKAstaroth Trophies" />
-  </a>
-</div>
-
-<br>
-
-<table align="center" width="95%" style="border: none;">
-  <tr>
-    <td width="55%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=DKAstaroth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=c9d1d9&count_private=true" alt="Juan Pablo's GitHub Stats" width="100%" />
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAstaroth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKAstaroth&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=D14836&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<br />
-<hr>
 
 ## ⚡ Tech Stack & Ecosystem
 
@@ -88,38 +87,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
----
-
-## 📐 System Architecture Review
-
-<details open>
-<summary><b>CASE STUDY I: High-Availability Resource Orchestration (S.G.R.E)</b></summary>
-<br>
-  
-> **Concept:** Sistema distribuido para logística de emergencia con *throttling* inteligente de notificaciones.
-> **Challenge:** Manejar concurrencia en escritura y garantizar entrega de alertas sin saturar el canal.
-
-```mermaid
-graph TD
-    subgraph "Core Infrastructure"
-    LB[Load Balancer] --> API[API Gateway]
-    API --> AUTH{Auth Service}
-    end
-
-    subgraph "Logic Layer"
-    AUTH -- Valid --> ENGINE[JSON Logic Engine]
-    ENGINE --> QUEUE[(Redis/Job Queue)]
-    end
-
-    subgraph "Persistence & Async"
-    QUEUE -- Dequeue --> WORKER[Background Worker]
-    WORKER --> DB[(NoSQL Cluster)]
-    WORKER --> NOTIFY[Notification Service]
-    end
-
-    style ENGINE fill:#2ea44f,stroke:#fff,stroke-width:2px,color:#fff
-    style QUEUE fill:#db6d28,stroke:#fff,stroke-width:2px,color:#fff
-    style DB fill:#1f6feb,stroke:#fff,stroke-width:2px,color:#fff
