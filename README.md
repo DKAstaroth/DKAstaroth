@@ -1,81 +1,114 @@
-<h1 align="center">Hola, soy Juan Pablo Andrés Vega Lagos 👋</h1>
-<h3 align="center">Creador de Soluciones Automatizadas | Estudiante de Ingeniería en Informática</h3>
-<p align="center">📍 Coronel, Región del Biobío, Chile</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=JUAN%20PABLO%20VEGA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Automated%20Solutions%20Architect%20%7C%20Cloud%20Engineer&descAlignY=55&descAlign=50" alt="Header Architect" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vega-core" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vegalagos.jpa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<br>
-
-## 👨‍💻 Sobre mí
-
-Soy un profesional **metódico** de 25 años, enfocado en la arquitectura de soluciones y la automatización lógica. No solo escribo código; diseño sistemas que eliminan tareas manuales y optimizan flujos de negocio.
-
-- 🔭 **Actualmente:** Trabajo como *Automated Solutions Creator* en **MasterBase**, gestionando el ciclo de vida completo de automatizaciones complejas.
-- 🎓 **Formación:** Ingeniería en Informática en Duoc UC (Egreso proyectado 2026).
-- 🏆 **Logro reciente:** Seleccionado para la fase nacional preliminar de la **Huawei ICT Competition 2025-2026 (Cloud Track)**.
-- 🧠 **Enfoque:** Resolución de problemas, Arquitectura Cloud y Lógica NoSQL.
-
----
-
-## 🛠️ Arsenal Tecnológico
-
-### 💻 Lenguajes & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Huawei_Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white" alt="Huawei Cloud"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 🚀 Experiencia Profesional
-
-### **MasterBase** | *Febrero 2026 - Presente*
-**Rol:** Creador de Soluciones Automatizadas (Remoto)
-> *Promovido internamente tras desempeño excepcional.*
-* **Arquitectura:** Gestión completa de automatizaciones desde requisitos hasta despliegue.
-* **Gestión de Incidencias:** Resolución de problemas complejos asegurando la continuidad del servicio.
-
----
-
-## 📂 Proyectos
-
-### 🚑 **S.G.R.E. (Sistema de Gestión de Recursos de Emergencia)**
-*En Curso | NoSQL, JSON Logic, Automation*
-Modelado integral de flujos de proceso. Implementación de colas por intervalos (Scheduling) y manipulación avanzada de estructuras JSON para lógica de negocio crítica.
-
-### 🤖 **Auror-IA**
-*Noviembre 2025 | Python, AI Analysis*
-Prototipado de un sistema de IA para análisis semántico enfocado en la detección de veracidad en medios digitales (fake news).
-
----
-
-## 📜 Certificaciones
-
-* **MasterBase:** Automatización de Procesos Smartview (Creator Low-Code, Avanzado).
-* **Cisco OpenEDG:** Python Essentials 1 & 2 (POO y Algoritmos).
-* **Academia Progenios:** Informática Forense.
-
----
+<h3 align="center">
+  <code>Input: Complex Problems</code> ➔ <code>Process: System Architecture</code> ➔ <code>Output: Scalable Solutions</code>
+</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DKAstaroth&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAstaroth&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <a href="https://linkedin.com/in/vega-core">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vegalagos.jpa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/DKAstaroth">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </div>
+
+<br />
+
+---
+
+## 🏗️ Ingeniería & Arquitectura
+> *"La excelencia técnica no es un acto, es un hábito metódico."*
+
+Soy un **Arquitecto de Soluciones Automatizadas** especializado en el diseño de ecosistemas digitales resilientes. Mi enfoque combina la lógica estricta de la ingeniería de software con la flexibilidad de las arquitecturas Cloud Native.
+
+| Dominio | Competencias Clave |
+| :--- | :--- |
+| **Cloud Infrastructure** | Huawei Cloud (ECS, VPC, ELB), AWS, Arquitecturas Serverless. |
+| **Backend Logic** | Python (Advanced), Node.js, JSON Logic Processing, Asynchronous Queues. |
+| **Data Engineering** | SQL Optimization, NoSQL Modeling (Document-based), ETL Pipelines. |
+| **Automation** | CI/CD Flows, Process Orchestration, MasterBase Smartview. |
+
+<br />
+
+## 🛠️ Stack Tecnológico (Nivel Producción)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <br>Git Flow
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=huawei" width="45" height="45" alt="Huawei" />
+        <br>Huawei Cloud
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+## 🧬 Proyectos & Diseño de Sistemas
+*A continuación se presentan diagramas de alto nivel de mis desarrollos más complejos.*
+
+<details open>
+<summary><h3>🚨 S.G.R.E. - Sistema de Gestión de Recursos de Emergencia</h3></summary>
+<br>
+
+**Rol:** Lead Architect & Developer | **Stack:** NoSQL, JSON Logic, Distributed Scheduling.
+
+> Plataforma logística crítica diseñada para alta disponibilidad y orquestación compleja de recursos bajo demanda.
+
+```mermaid
+graph LR
+    subgraph Client_Side
+    UI[Frontend Interface] -->|JSON Request| API[API Gateway]
+    end
+
+    subgraph Core_Logic
+    API -->|Validate| JL[JSON Logic Engine]
+    JL -->|Process Rules| CTRL[Controller]
+    end
+
+    subgraph Data_Persistence
+    CTRL -->|Write/Read| DB[(NoSQL Heterogeneous DB)]
+    end
+
+    subgraph Async_Worker
+    CTRL -->|Enqueue Job| Q[Scheduling Queue]
+    Q -->|Trigger Interval| NOTIF[Notification Service]
+    NOTIF -->|Render HTML/CSS| EMAIL[Dynamic Report Dispatch]
+    end
+
+    style API fill:#f9f,stroke:#333,stroke-width:2px
+    style DB fill:#bbf,stroke:#333,stroke-width:2px
+    style JL fill:#bfb,stroke:#333,stroke-width:2px
