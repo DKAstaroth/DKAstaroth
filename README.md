@@ -1,75 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,0d1117&height=320&section=header&text=JUAN%20PABLO%20VEGA&fontSize=70&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Systems%20%7C%20Engineering%20Excellence&descAlignY=55&descAlign=50" alt="Master Header" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=DKAstaroth&color=D4AF37&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=60&duration=4000&pause=1000&color=D4AF37&background=0D1117&center=true&vCenter=true&width=900&height=120&lines=JUAN+PABLO+VEGA;Informatics+Engineering" alt="Executive Header" />
+  </a>
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineer;Automated+Solutions+Creator;Full+Stack+Developer;SQL+%26+NoSQL+Architect;AWS+Cloud+Infrastructure;Advanced+Python+Core" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=24&duration=3500&pause=1000&color=D4AF37&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Automated+Solutions+Creator;Full+Stack+Developer;SQL+%26+NoSQL+Architect;AWS+Cloud+Infrastructure;Advanced+Python+Core" alt="Typing SVG" />
   </a>
-  
 </h3>
-
-
+  
 <br />
 
-<h2 align="center">☢️ Core Technologies</h2>
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,docker,git,linux,postgres,ts,angular,nodejs,java,vscode,vuejs&perline=6&theme=dark" alt="Skill Icons" />
+  <a href="https://linkedin.com/in/vega-core">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>&nbsp;
+  
+  <a href="mailto:vegalagos.jpa@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>&nbsp;
+  
+  <a href="https://github.com/DKAstaroth">
+    <img src="https://img.shields.io/badge/GITHUB-REPO_ACCESS-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DKAstaroth&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/vega-core"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:vegalagos.jpa@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/DKAstaroth"><img src="https://img.shields.io/badge/GITHUB-REPO_ACCESS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <blockquote>
-    <i>"La diferencia entre código funcional y código excelente radica en la escalabilidad, la legibilidad y la arquitectura subyacente."</i>
-  </blockquote>
-</div>
-
-<br />
-<h2 align="center">⚡ Tech Stack & Ecosystem</h2>
-
-<table align="center">
+<h2 align="center">🛠️ Tech Stack & Infrastructure</h2>
+<table align="center" style="border: none;">
   <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-      <br><b>Automation & AI</b>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=python,java&theme=dark" /><br>
+      <b style="color: #D4AF37;">CORE BACKEND</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
-      <br><b>Typed Arch</b>
+<td align="center" width="150">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" valign="middle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" alt="Oracle" valign="middle" />
+  <br>
+  <b style="color: #D4AF37;">DATA ARCHITECTURE</b>
+</td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" /><br>
+      <b style="color: #D4AF37;">CLOUD & DEVOPS</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
-      <br><b>Microservices</b>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" /><br>
+      <b style="color: #D4AF37;">TOOLS</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="55" height="55" />
-      <br><b>Enterprise DB</b>
+  </tr>
+</table>
+<br />
+
+
+
+
+<h2 align="center">🚀 Current Architecture Initiatives</h2>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="300" align="center">
+      <h3 style="color: #D4AF37;">Auror-IA</h3>
+      <code>AI-Driven Fake News Detection</code><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-D4AF37?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/STACK-NLP_%7C_Python_%7C_Cloud-gray?style=flat-square&labelColor=0D1117" />
     </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" />
-      <br><b>Cloud Native</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />
-      <br><b>Enterprise Core</b>
+    <td width="300" align="center">
+      <h3 style="color: #D4AF37;">S.G.R.E.</h3>
+      <code>Emergency Resource Logistics</code><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-ALPHA_VERSION-D4AF37?style=flat-square&labelColor=0D1117&logo=linux&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/STACK-SQL_%7C_Data_Warehouse-gray?style=flat-square&labelColor=0D1117" />
     </td>
   </tr>
 </table>
