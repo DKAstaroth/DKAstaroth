@@ -59,23 +59,3 @@
 <br />
 
 
-
-
-<h2 align="center">🚀 Current Architecture Initiatives</h2>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="300" align="center">
-      <h3 style="color: #D4AF37;">Auror-IA</h3>
-      <code>AI-Driven Fake News Detection</code><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-D4AF37?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/STACK-NLP_%7C_Python_%7C_Cloud-gray?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td width="300" align="center">
-      <h3 style="color: #D4AF37;">S.G.R.E.</h3>
-      <code>Emergency Resource Logistics</code><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-ALPHA_VERSION-D4AF37?style=flat-square&labelColor=0D1117&logo=linux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/STACK-SQL_%7C_Data_Warehouse-gray?style=flat-square&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
