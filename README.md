@@ -8,6 +8,7 @@
   </a>
 </div>
 
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=24&duration=3500&pause=1000&color=D4AF37&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Automated+Solutions+Creator;Full+Stack+Developer;SQL+%26+NoSQL+Architect;AWS+Cloud+Infrastructure;Advanced+Python+Core" alt="Typing SVG" />
